@@ -1,0 +1,8 @@
+H:\Coding\RPS\RPS\bin\Debug\RPS.exe.config
+H:\Coding\RPS\RPS\bin\Debug\RPS.exe
+H:\Coding\RPS\RPS\bin\Debug\RPS.pdb
+H:\Coding\RPS\RPS\obj\Debug\RPS.csproj.AssemblyReference.cache
+H:\Coding\RPS\RPS\obj\Debug\RPS.csproj.SuggestedBindingRedirects.cache
+H:\Coding\RPS\RPS\obj\Debug\RPS.csproj.CoreCompileInputs.cache
+H:\Coding\RPS\RPS\obj\Debug\RPS.exe
+H:\Coding\RPS\RPS\obj\Debug\RPS.pdb
